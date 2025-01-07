@@ -18,8 +18,17 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
