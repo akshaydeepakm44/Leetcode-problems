@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
