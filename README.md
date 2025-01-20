@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
