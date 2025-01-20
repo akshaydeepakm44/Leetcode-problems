@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
@@ -63,4 +64,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
