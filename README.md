@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
@@ -34,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Simulation
