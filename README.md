@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -44,6 +46,7 @@
 | [0013-roman-to-integer](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
