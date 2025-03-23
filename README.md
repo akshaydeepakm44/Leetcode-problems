@@ -54,6 +54,7 @@
 | [0344-reverse-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1078-remove-outermost-parentheses](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
