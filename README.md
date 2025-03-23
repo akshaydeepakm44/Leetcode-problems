@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -57,6 +58,7 @@
 | [0125-valid-palindrome](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -95,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
