@@ -36,6 +36,7 @@
 | [0326-power-of-three](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [2032-largest-odd-number-in-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1078-remove-outermost-parentheses](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
