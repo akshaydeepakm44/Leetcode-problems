@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0027-remove-element](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -34,6 +36,7 @@
 | [0066-plus-one](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
