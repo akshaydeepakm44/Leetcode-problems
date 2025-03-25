@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0125-valid-palindrome](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0344-reverse-string) |
 ## Math
 |  |
