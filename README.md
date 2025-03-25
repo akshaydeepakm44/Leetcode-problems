@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@
 | [0013-roman-to-integer](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -40,6 +42,7 @@
 | [0069-sqrtx](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -49,6 +52,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -81,6 +85,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -103,6 +108,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/akshaydeepakm44/Leetcode-problems/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
