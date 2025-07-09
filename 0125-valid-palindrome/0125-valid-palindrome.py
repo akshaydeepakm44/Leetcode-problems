@@ -1,11 +1,4 @@
-class Solution(object):
-    def isPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        # Remove non-alphanumeric characters and convert to lowercase
-        s = ''.join(e for e in s if e.isalnum()).lower()
-        
-        # Compare the string with its reverse
-        return s == s[::-1]
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        filtered_s = ''.join(char.lower() for char in s if char.isalnum())
+        return filtered_s == filtered_s[::-1]
